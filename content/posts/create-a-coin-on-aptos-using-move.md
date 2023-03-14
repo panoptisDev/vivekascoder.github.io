@@ -382,5 +382,5 @@ And finally, you have your token in your wallet.
 ### To verify the module type the following command.
 
 ```bash
-aptos move publish
+aptos move prove
 ```
